@@ -1,0 +1,23 @@
+{
+  "name": "react-conditional-wrapper",
+  "version": "0.0.1",
+  "description": "react-conditional-wrapper is a lightweight utility for React that conditionally wraps a component with a wrapper element or component based on a specified condition.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crandicha/react-conditional-wrapper.git"
+  },
+  "keywords": [
+    "react",
+    "component"
+  ],
+  "author": "Charles Randicha Gunawan Santoso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crandicha/react-conditional-wrapper/issues"
+  },
+  "homepage": "https://github.com/crandicha/react-conditional-wrapper#readme"
+}
